@@ -1,0 +1,5 @@
+# date_refresh log
+# Format: ISO8601 UTC timestamp | level | source | message
+# Example entry below. This file is intended for human-readable logs produced by the refresh/data-refresh code.
+
+2025-10-08T00:00:00Z | INFO  | date_refresh | Log file created
