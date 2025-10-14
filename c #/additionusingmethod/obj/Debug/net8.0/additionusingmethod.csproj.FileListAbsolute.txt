@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\additionusingmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\additionusingmethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\additionusingmethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\additionusingmethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\additionusingmethod.sourcelink.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\bin\Debug\net8.0\additionusingmethod.exe
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\bin\Debug\net8.0\additionusingmethod.deps.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\bin\Debug\net8.0\additionusingmethod.runtimeconfig.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\bin\Debug\net8.0\additionusingmethod.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\bin\Debug\net8.0\additionusingmethod.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\additionusingmethod.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\refint\additionusingmethod.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\additionusingmethod.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\additionusingmethod.genruntimeconfig.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\additionusingmethod\obj\Debug\net8.0\ref\additionusingmethod.dll
