@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\Min_max_finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\Min_max_finder.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\Min_max_finder.AssemblyInfo.cs
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\Min_max_finder.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\Min_max_finder.sourcelink.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\bin\Debug\net8.0\Min_max_finder.exe
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\bin\Debug\net8.0\Min_max_finder.deps.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\bin\Debug\net8.0\Min_max_finder.runtimeconfig.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\bin\Debug\net8.0\Min_max_finder.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\bin\Debug\net8.0\Min_max_finder.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\Min_max_finder.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\refint\Min_max_finder.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\Min_max_finder.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\Min_max_finder.genruntimeconfig.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\day 2\Min_max_finder\obj\Debug\net8.0\ref\Min_max_finder.dll

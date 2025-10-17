@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|c:\\users\\hp\\desktop\\advance-tech-training-iot-\\c #\\metering_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|c:\\users\\hp\\desktop\\advance-tech-training-iot-\\c #\\metering_system\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|solutionrelative:mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|c:\\users\\hp\\desktop\\advance-tech-training-iot-\\c #\\metering_system\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|c:\\users\\hp\\desktop\\advance-tech-training-iot-\\c #\\metering_system\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|c:\\users\\hp\\desktop\\advance-tech-training-iot-\\c #\\metering_system\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|solutionrelative:reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|c:\\users\\hp\\desktop\\advance-tech-training-iot-\\c #\\metering_system\\smartmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EA26AD-640A-435A-924B-6D528E16C629}|metering_system.csproj|solutionrelative:smartmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\Mapping.cs",
+              "RelativeDocumentMoniker": "Mapping.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\Mapping.cs",
+              "RelativeToolTip": "Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:53:58.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "customer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\customer.cs",
+              "RelativeDocumentMoniker": "customer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\customer.cs",
+              "RelativeToolTip": "customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:30:48.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bill.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\bill.cs",
+              "RelativeDocumentMoniker": "bill.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\bill.cs",
+              "RelativeToolTip": "bill.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:32:10.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:28:57.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Smartmeter.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\Smartmeter.cs",
+              "RelativeDocumentMoniker": "Smartmeter.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\Smartmeter.cs",
+              "RelativeToolTip": "Smartmeter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:31:04.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reading.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\Reading.cs",
+              "RelativeDocumentMoniker": "Reading.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\metering_system\\Reading.cs",
+              "RelativeToolTip": "Reading.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:41:54.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\array_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\array_.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\array_.AssemblyInfo.cs
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\array_.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\array_.sourcelink.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\bin\Debug\net8.0\array_.exe
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\bin\Debug\net8.0\array_.deps.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\bin\Debug\net8.0\array_.runtimeconfig.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\bin\Debug\net8.0\array_.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\bin\Debug\net8.0\array_.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\array_.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\refint\array_.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\array_.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\array_.genruntimeconfig.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\array_\obj\Debug\net8.0\ref\array_.dll

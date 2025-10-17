@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\Loops_1_pat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\Loops_1_pat.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\Loops_1_pat.AssemblyInfo.cs
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\Loops_1_pat.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Loops_1_pat\bin\Debug\net8.0\Loops_1_pat.exe
+C:\Users\HP\source\repos\Loops_1_pat\bin\Debug\net8.0\Loops_1_pat.deps.json
+C:\Users\HP\source\repos\Loops_1_pat\bin\Debug\net8.0\Loops_1_pat.runtimeconfig.json
+C:\Users\HP\source\repos\Loops_1_pat\bin\Debug\net8.0\Loops_1_pat.dll
+C:\Users\HP\source\repos\Loops_1_pat\bin\Debug\net8.0\Loops_1_pat.pdb
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\Loops_1_pat.dll
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\refint\Loops_1_pat.dll
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\Loops_1_pat.pdb
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\Loops_1_pat.genruntimeconfig.cache
+C:\Users\HP\source\repos\Loops_1_pat\obj\Debug\net8.0\ref\Loops_1_pat.dll

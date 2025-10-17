@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\lastdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\lastdemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\lastdemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\lastdemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\lastdemo\bin\Debug\net8.0\lastdemo.exe
+C:\Users\HP\source\repos\lastdemo\bin\Debug\net8.0\lastdemo.deps.json
+C:\Users\HP\source\repos\lastdemo\bin\Debug\net8.0\lastdemo.runtimeconfig.json
+C:\Users\HP\source\repos\lastdemo\bin\Debug\net8.0\lastdemo.dll
+C:\Users\HP\source\repos\lastdemo\bin\Debug\net8.0\lastdemo.pdb
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\lastdemo.dll
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\refint\lastdemo.dll
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\lastdemo.pdb
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\lastdemo.genruntimeconfig.cache
+C:\Users\HP\source\repos\lastdemo\obj\Debug\net8.0\ref\lastdemo.dll
