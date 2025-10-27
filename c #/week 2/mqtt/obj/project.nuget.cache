@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ydA+c/aO4A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Advance-Tech-Training-IoT-\\c #\\mqtt\\mqtt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.3.7.1207\\mqttnet.extensions.managedclient.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}

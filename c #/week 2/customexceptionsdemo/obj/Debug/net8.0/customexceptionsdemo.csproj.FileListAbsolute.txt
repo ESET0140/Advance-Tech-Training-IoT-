@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\bin\Debug\net8.0\customexceptionsdemo.exe
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\bin\Debug\net8.0\customexceptionsdemo.deps.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\bin\Debug\net8.0\customexceptionsdemo.runtimeconfig.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\bin\Debug\net8.0\customexceptionsdemo.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\bin\Debug\net8.0\customexceptionsdemo.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\customexceptionsdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\customexceptionsdemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\customexceptionsdemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\customexceptionsdemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\customexceptionsdemo.sourcelink.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\customexceptionsdemo.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\refint\customexceptionsdemo.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\customexceptionsdemo.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\customexceptionsdemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\customexceptionsdemo\obj\Debug\net8.0\ref\customexceptionsdemo.dll

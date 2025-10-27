@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\bin\Debug\net8.0\trycatchdemo2.exe
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\bin\Debug\net8.0\trycatchdemo2.deps.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\bin\Debug\net8.0\trycatchdemo2.runtimeconfig.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\bin\Debug\net8.0\trycatchdemo2.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\bin\Debug\net8.0\trycatchdemo2.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\trycatchdemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\trycatchdemo2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\trycatchdemo2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\trycatchdemo2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\trycatchdemo2.sourcelink.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\trycatchdemo2.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\refint\trycatchdemo2.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\trycatchdemo2.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\trycatchdemo2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchdemo2\obj\Debug\net8.0\ref\trycatchdemo2.dll

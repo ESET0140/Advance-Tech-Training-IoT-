@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\trycatchex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\trycatchex.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\trycatchex.AssemblyInfo.cs
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\trycatchex.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\trycatchex.sourcelink.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\bin\Debug\net8.0\trycatchex.exe
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\bin\Debug\net8.0\trycatchex.deps.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\bin\Debug\net8.0\trycatchex.runtimeconfig.json
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\bin\Debug\net8.0\trycatchex.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\bin\Debug\net8.0\trycatchex.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\trycatchex.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\refint\trycatchex.dll
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\trycatchex.pdb
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\trycatchex.genruntimeconfig.cache
+C:\Users\HP\Desktop\Advance-Tech-Training-IoT-\c #\trycatchex\obj\Debug\net8.0\ref\trycatchex.dll
