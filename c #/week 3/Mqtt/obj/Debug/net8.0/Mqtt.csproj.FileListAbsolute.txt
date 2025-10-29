@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\Mqtt\obj\Debug\net8.0\Mqtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Mqtt\obj\Debug\net8.0\Mqtt.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Mqtt\obj\Debug\net8.0\Mqtt.AssemblyInfo.cs
+C:\Users\HP\source\repos\Mqtt\obj\Debug\net8.0\Mqtt.csproj.CoreCompileInputs.cache
